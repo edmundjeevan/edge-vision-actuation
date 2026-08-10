@@ -1,3 +1,4 @@
+<img width="4000" height="3008" alt="irobot" src="https://github.com/user-attachments/assets/f2f7bfa9-6e85-4bdd-b2c5-d169262183dd" />
 # Edge Vision Actuation
 
 Real-time object detection and voice-controlled navigation on an NVIDIA Jetson Orin Nano Super,
